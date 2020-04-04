@@ -1,8 +1,32 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Very ~~useful~~ stuff
+`This page is created and maintain by` <br/>
+[Eric](https://github.com/ericcleee)<br/>
+[Kai Bin](https://github.com/ckb055)<br/>
+[Ben]()<br/>
 
-## Available Scripts
+# Git
+### `Find Git remote`
+git remote -v
 
-In the project directory, you can run:
+### `Reset Git Remote`
+git remote rm "Headname"
+
+### `Add Git Remote`
+git remote add origin "link"
+
+### `Git commit`
+git commit -m "text"
+
+
+### `Git push`
+git push -u origin master
+
+# React
+### `Creating a React project`
+
+npx create-react-app "app-name"<br />
+cd "app-name"<br />
+npm start<br />
 
 ### `npm start`
 
@@ -63,7 +87,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ad
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-"# exchangetracker" 
