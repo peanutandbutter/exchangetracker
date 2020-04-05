@@ -1,0 +1,40 @@
+
+.top-nav-ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:  #55d6aa;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .top-nav-li{
+    display: inline-block;
+    margin-left: 40px;
+    color: #24252A;
+    padding: 14px 16px;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .nav-text{
+    color: #444;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Poppins', sans-serif;
+  }
+
+  .nav-text:hover{
+    color: #7b7b7b;
+  }
+
+  button {
+    font-family: 'Poppins', sans-serif;
+    padding: 9px 25px;
+    background-color: rgba(0, 136, 169, 1);
+    /*color: #e2e2e2;*/
+    color: pink;
+    border: none;
+    border-radius: 40px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+  }

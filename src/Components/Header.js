@@ -1,23 +1,17 @@
 import React, {Component} from 'react';
-
-
-export default class Header extends Component{
+import './Header.css';
+class Header extends Component{
     render(){
         return(
-            <div className = "App">
-                <ul className = "topnavul">
-                    <li><a href="#">Home</a></li>
+            <nav className = "App">
+                <ul className = "top-nav-ul">
+                    <li className = "top-nav-li"><a className = "nav-text" href="#">Home</a></li>
+                    <li className = "top-nav-li"><a className = "nav-text" href="#">About Us</a></li>
+                    <li className = "top-nav-li"><a className = "nav-text" href="#">Contact</a></li>
                 </ul>
-
-                <ul className = "topnavul">
-                    <li><a href="#">About Us</a></li>
-                </ul>
-
-                <ul className = "topnavul">
-                    <li><a href="#">Contact</a></li>
-                </ul>
-            </div>
+            </nav>
         );
     }
 }
 
+export default Header;

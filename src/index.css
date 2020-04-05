@@ -12,30 +12,3 @@ code {
     monospace;
 }
 
-nav{
-  display:flex;
-  justify-content: space-around;
-  align-items: center;
-  height: 55px;
-  width: 100%;
-  background-color: #24252A;
-  font-family: 'Poppins', sans-serif;
-  padding-right: 40px;
-  position: relative;
-}
-
-ul topnavul{
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: white;
-  font-family: 'Poppins', sans-serif;
-}
-
-li topnavli{
-  display: block;
-  color: #24252A;
-  text-align: center;
-  padding: 14px 16px;
-}
