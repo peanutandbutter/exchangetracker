@@ -19,7 +19,12 @@ git remote rm "Headname"
 git remote add origin "link"
 
 ### `Git commit`
-git commit -m "text"
+git add a
+git commit a -m "text"
+
+or 
+
+git commit -a //to commit all
 
 
 ### `Git push`
