@@ -5,9 +5,10 @@ class Header extends Component{
         return(
             <nav className = "App">
                 <ul className = "top-nav-ul">
-                    <li className = "top-nav-li"><a className = "nav-text" href="#">Home</a></li>
-                    <li className = "top-nav-li"><a className = "nav-text" href="#">About Us</a></li>
-                    <li className = "top-nav-li"><a className = "nav-text" href="#">Contact</a></li>
+                    <li className = "top-nav-li"><a className = "top-nav-text" href="#">Home</a></li>
+                    <li className = "top-nav-li"><a className = "top-nav-text" href="#">About Us</a></li>
+
+                    <a href="#"><button className = "top-nav-button">Contact</button></a>
                 </ul>
             </nav>
         );
