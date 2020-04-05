@@ -5,6 +5,10 @@
 [Ben]()<br/>
 
 # Git
+
+### `Pull Git remote`
+git pull origin master
+
 ### `Find Git remote`
 git remote -v
 
