@@ -2,7 +2,7 @@
 `This page is created and maintain by` <br/>
 [Eric](https://github.com/ericcleee)<br/>
 [Kai Bin](https://github.com/ckb055)<br/>
-[Ben]()<br/>
+[Ben](https://github.com/orgs/peanutandbutter/people/benntay1)<br/>
 
 # Git
 
