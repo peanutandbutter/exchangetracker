@@ -19,10 +19,10 @@ git remote rm "Headname"
 git remote add origin "link"
 
 ### `Git commit`
-git add a
-git commit a -m "text"
+git add a<br/>
+git commit a -m "text"<br/>
 
-or 
+or <br/>
 
 git commit -a //to commit all
 
